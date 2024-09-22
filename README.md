@@ -14,5 +14,5 @@ Keyer = 0: Direct mode, for direct coupling between input and output (i.e. iambi
 
 Keyer = 1: Ultimatic mode 
 
-Keyer = 3: Single-lever emulation
+Keyer = 2: Single-lever emulation
 
